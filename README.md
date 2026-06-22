@@ -7,10 +7,15 @@ One of my projects, a **Clinic Management System**, is currently in active use b
 #### What I work with
  
 **Languages:** Java, Python, C++, C, Kotlin, PHP
+
 **Web:** HTML, CSS, JavaScript
+
 **Frameworks:** Flutter, Django, Flask, Laravel
+
 **Databases:** MySQL, PostgreSQL, Oracle, SQLite
+
 **Tools:** Git/GitHub, VS Code, IntelliJ IDEA, Android Studio, Visual Studio
+
 **Core Concept:** Data Structures and Algorithm, OOPS
 
 #### A few things I've built
