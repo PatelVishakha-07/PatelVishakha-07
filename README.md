@@ -1,6 +1,6 @@
 ### Hi, I'm Vishakha 👋
  
-I'm a final-year MCA student at LJ University, Ahmedabad, with a strong foundation in Java, Python, and C++. I enjoy building practical, end-to-end applications — from mobile apps to desktop systems actually used by real people.
+I'm a final-year MCA student at LJ University, Ahmedabad, with a strong foundation in Java, Python, and C. I enjoy building practical, end-to-end applications — from mobile apps to desktop systems actually used by real people.
  
 One of my projects, a **Clinic Management System**, is currently in active use by a practicing doctor — that's the kind of real-world impact I look for in everything I build.
  
