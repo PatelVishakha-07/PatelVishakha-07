@@ -1,36 +1,75 @@
-### Hi, I'm Vishakha 👋
- 
-I'm a final-year MCA student at LJ University, Ahmedabad, with a strong foundation in Java, Python, and C. I enjoy building practical, end-to-end applications — from mobile apps to desktop systems actually used by real people.
- 
-One of my projects, a **Clinic Management System**, is currently in active use by a practicing doctor — that's the kind of real-world impact I look for in everything I build.
- 
-#### What I work with
- 
-**Languages:** Java, Python, C++, C, Kotlin, PHP
+# Hi, I'm Vishakha Patel 👋
 
-**Web:** HTML, CSS, JavaScript
+I'm a final-year MCA student at LJ University, Ahmedabad — building practical, end-to-end software across mobile, desktop, and web. I care about shipping things that actually work for real people, not just passing tests.
 
-**Frameworks:** Flutter, Django, Flask, Laravel
-
-**Databases:** MySQL, PostgreSQL, Oracle, SQLite
-
-**Tools:** Git/GitHub, VS Code, IntelliJ IDEA, Android Studio, Visual Studio
-
-**Core Concept:** Data Structures and Algorithm, OOPS
-
-#### A few things I've built
-
-- 🏥 **Clinic Management System** — patient records, prescriptions, billing & profit tracking (C#, PostgreSQL) — deployed and in active use
-- 🧾 **Invoice Generator** — billing system for a general store with automatic stock updates (C)
-- 📋 **Attendance App** — geofenced session codes + face recognition for proxy-proof attendance (Flutter, Python, MySQL)
-- ⏰ **Smart Event Reminder** — Android app for scheduling and notifying users about events (Kotlin, SQLite)
-
-#### Find me here
-
-- 💼 LinkedIn - https://www.linkedin.com/in/patelvishakha-tech
-- 🧩 LeetCode — https://leetcode.com/u/patelvishakha-tech/
-- 🏆 HackerRank — https://www.hackerrank.com/profile/vishakhapatel07
+One of my projects, a **Clinic Management System**, is deployed and actively used by a practicing doctor. That's the bar I hold myself to.
 
 ---
 
-*Always learning, always building. Open to connecting with fellow developers.*
+## 🛠️ What I work with
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**Frameworks & Tools**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Tech | Highlight |
+|---|---|---|
+| 🏥 [**Clinic Management System**](https://github.com/PatelVishakha-07/Clinic_Management_System) | C#, PostgreSQL, .NET | **Deployed — used by a real doctor daily** |
+| 🤖 [**AI Interview Question Generator**](https://github.com/PatelVishakha-07/InterviewPrepAI) | Django, Gemini API, MySQL | Role-specific questions, session history, export |
+| 📋 [**Face Recognition Attendance System**](https://github.com/PatelVishakha-07/online_ams) | Python, OpenCV, MySQL | Real-time face detection, auto attendance marking |
+| 🧾 **Invoice Generator** | C | Billing + automatic stock management for a general store |
+| ⏰ **Smart Event Reminder** | Kotlin, SQLite | Android app with scheduling and push notifications |
+
+---
+
+## 📊 GitHub Stats
+
+![Vishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatelVishakha-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelVishakha-07&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧩 DSA Practice
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-107%20solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/patelvishakha-tech/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishakhapatel07)
+
+Practising Dynamic Programming, Backtracking, Trees, and Divide & Conquer across Java, Python, and MySQL.
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishakha%20Patel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelvishakha-tech)
+[![Email](https://img.shields.io/badge/Email-vishakhapatel8270%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishakhapatel8270@gmail.com)
+
+---
+
+*Always learning, always building. Open to software development roles — full-stack, backend, or mobile.*
