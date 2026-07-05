@@ -51,21 +51,19 @@ One of my projects, a **Clinic Management System**, is deployed and actively use
 
 ## 📊 GitHub Stats
 
-![Vishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatelVishakha-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+> ⭐ If the stats cards below don't load, [view my GitHub profile directly](https://github.com/PatelVishakha-07)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PatelVishakha-07&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelVishakha-07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![GitHub followers](https://img.shields.io/github/followers/PatelVishakha-07?style=flat&logo=github&label=Followers&color=181717)](https://github.com/PatelVishakha-07)
+[![GitHub User's stars](https://img.shields.io/github/stars/PatelVishakha-07?style=flat&logo=github&label=Total%20Stars&color=181717)](https://github.com/PatelVishakha-07)
 
 ---
 
 ## 🧩 DSA Practice
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/patelvishakha-tech?theme=dark&font=Fira%20Code&ext=heatmap&hide_border=true)](https://leetcode.com/u/patelvishakha-tech/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-128%2B%20solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/patelvishakha-tech/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishakhapatel07)
 
-Practising Dynamic Programming, Backtracking, Trees, and Divide & Conquer across Java, Python, and MySQL.
+Strong in **Dynamic Programming, Backtracking, Trees,** and **Divide & Conquer** across Java, Python, and MySQL.
 
 ---
 
