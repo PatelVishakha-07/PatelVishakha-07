@@ -51,14 +51,18 @@ One of my projects, a **Clinic Management System**, is deployed and actively use
 
 ## 📊 GitHub Stats
 
-![Vishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatelVishakha-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelVishakha-07&layout=compact&theme=tokyonight&hide_border=true)
+![Vishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatelVishakha-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PatelVishakha-07&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatelVishakha-07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
 ## 🧩 DSA Practice
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-107%20solved-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/patelvishakha-tech/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/patelvishakha-tech?theme=dark&font=Fira%20Code&ext=heatmap&hide_border=true)](https://leetcode.com/u/patelvishakha-tech/)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vishakhapatel07)
 
 Practising Dynamic Programming, Backtracking, Trees, and Divide & Conquer across Java, Python, and MySQL.
